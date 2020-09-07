@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">idiomas</string>
+    <string name="texto_bienvenida">Bienvenido a la APP!</string>
+    <string name="cambiar_idioma">Cambiar idioma del dispositivo</string>
+</resources>

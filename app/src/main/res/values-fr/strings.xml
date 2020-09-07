@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">idiomas</string>
+    <string name="texto_bienvenida">Bienvenue à l’APP!</string>
+    <string name="cambiar_idioma">Modifier la langue du périphérique</string>
+</resources>
